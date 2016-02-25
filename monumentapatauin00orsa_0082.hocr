@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./monumentapatauin00orsa/monumentapatauin00orsa_0082.png"; bbox 0 0 2294 3454; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 2725 1561 2880">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 2725 1561 2880">
+     <span class='ocr_line' id='line_1_1' title="bbox 287 2725 1561 2803; baseline -0.002 -10"><span class='ocrx_word' id='word_1_1' title='bbox 287 2767 290 2769; x_wconf 16' lang='grc' dir='ltr'><strong>Δ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 439 2779 444 2782; x_wconf 89' lang='grc'>.</span> <span class='ocrx_word' id='word_1_3' title='bbox 550 2764 582 2773; x_wconf 18' lang='grc' dir='ltr'><strong>-Ᾰ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 886 2738 1143 2799; x_wconf 57' lang='lat' dir='ltr'><strong>imum&lt;</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1164 2725 1561 2803; x_wconf 48' lang='grc' dir='ltr'><strong>*ήΰᾞονεκ</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 0 2808 1490 2880; baseline -0.003 -17"><span class='ocrx_word' id='word_1_6' title='bbox 0 2812 60 2874; x_wconf 48' lang='grc' dir='ltr'><strong>Γ,</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 220 2845 235 2859; x_wconf 85' lang='lat'><strong>.-</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 342 2867 346 2871; x_wconf 54' lang='grc'><strong>,</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 523 2830 535 2848; x_wconf 60' lang='lat' dir='ltr'>r</span> <span class='ocrx_word' id='word_1_10' title='bbox 650 2867 656 2880; x_wconf 24' lang='grc' dir='ltr'><strong>ἲ</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 988 2808 1114 2864; x_wconf 58' lang='grc' dir='ltr'><strong>τΤεΞι</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 1140 2817 1310 2868; x_wconf 59' lang='lat' dir='ltr'><strong>sm</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1304 2812 1490 2872; x_wconf 42' lang='lat' dir='ltr'><strong>„ma</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 830 2860 1621 2950">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 830 2860 1621 2950">
+     <span class='ocr_line' id='line_1_3' title="bbox 830 2860 1621 2950; baseline -0.001 -23"><span class='ocrx_word' id='word_1_14' title='bbox 830 2860 904 2930; x_wconf 48' lang='grc' dir='ltr'><strong>-Ᾱὶ,</strong></span> <span class='ocrx_word' id='word_1_15' title='bbox 897 2879 1102 2934; x_wconf 56' lang='lat' dir='ltr'><strong>tva„</strong></span> <span class='ocrx_word' id='word_1_16' title='bbox 1120 2885 1209 2927; x_wconf 73' lang='grc' dir='ltr'><strong>οι</strong></span> <span class='ocrx_word' id='word_1_17' title='bbox 1211 2884 1349 2938; x_wconf 55' lang='lat'><strong>2³2:</strong></span> <span class='ocrx_word' id='word_1_18' title='bbox 1358 2882 1495 2929; x_wconf 57' lang='grc' dir='ltr'><strong>ΛΗ</strong></span> <span class='ocrx_word' id='word_1_19' title='bbox 1521 2852 1621 2950; x_wconf 66' lang='lat' dir='ltr'><strong>:3²&#39; </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 2292 3454">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 2292 3454">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 2292 3454; baseline 0 0"><span class='ocrx_word' id='word_1_20' title='bbox 0 0 2292 3454; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
